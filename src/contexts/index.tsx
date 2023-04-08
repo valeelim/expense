@@ -1,0 +1,1 @@
+export {useCategoryImageContext, type CategoryImageMapper} from './useCategoryImageContext';
